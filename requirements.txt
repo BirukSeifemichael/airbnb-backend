@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+reportlab
+python-multipart
+httpx
