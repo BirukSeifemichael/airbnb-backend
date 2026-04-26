@@ -1,0 +1,10 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.135.3",
+    "httpx>=0.28.1",
+]
